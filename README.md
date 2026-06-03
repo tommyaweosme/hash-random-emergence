@@ -9,7 +9,7 @@ A pattern that stays still (1|75) (2|242) is a still life.
 
 A pattern that repeatedly recplicates itself somewhere else (1|1) (3|2) is a spaceship.
 
-A pattern that repeatedly replicates itself in the same spot (2|954) is an oscillator.
+A pattern that repeatedly replicates itself in the same spot (2|954) (3|5890) is an oscillator.
 
 A pattern that repeatedly replicates itself exponentially (2|e) is a duplicator.
 
@@ -25,6 +25,8 @@ Throws upwards a weird pattern.
 Implements a Fibonacci sequence while creating extremely interesting patterns.
 ### 3|5
 This is an infinite growth that looks like a slice of pizza. Yum!
+### 3|5890
+First ever found period-3 oscillator. Found with an automated searcher.
 ### 4|2
 This may be the simplest knightwise spaceship.
 ### 5|5
