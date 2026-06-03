@@ -1,4 +1,4 @@
-<img width="464" height="226" alt="image" src="https://github.com/user-attachments/assets/9294ab11-6bcc-4083-a0b5-f26d4d739d66" /># hash-random-emergence
+# hash-random-emergence
 This is the "sister version" to mulberry32 emergence. The differences are the random algorithm, and that seeds can now be letters (but it is preferable to still use numbers). This one feels like it should be explored more, but the mulberry32 one is the original and will likely be explored more.
 ## Why should we use numbers?
 Imagine we find a great discovery, but its seed contains an offensive string. Numbers cannot offend, but words can. This pattern is now practically unshareable. Short strings of up to 2 letters should also be searched, but 3 letters is where offensive possibilities begin.
@@ -9,7 +9,7 @@ A pattern that stays still (1|75) (2|242) is a still life.
 
 A pattern that repeatedly recplicates itself somewhere else (1|1) (3|2) is a spaceship.
 
-A pattern that repeatedly replicates itself in the same spot (no known examples) is an oscillator.
+A pattern that repeatedly replicates itself in the same spot (2|954) is an oscillator.
 
 A pattern that repeatedly replicates itself exponentially (2|e) is a duplicator.
 
@@ -17,6 +17,8 @@ A pattern that grows infinitely in some way (2|55) is infinite growth.
 ## Interesting Patterns
 ### 2|55
 Generates a weird infinite growth that isn't a duplicator or a Fibonacci.
+### 2|954
+First ever found oscillator. Found with an automated searcher.
 ### 2|rg
 Throws upwards a weird pattern.
 ### 3|4
