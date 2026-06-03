@@ -73,3 +73,5 @@ This is another Padovan pattern.
 This is apparently a cubic eqaution contained entirely within 6 states.
 ### 6|a
 This is a gun that shoots 2-width spaceships.
+### 25|234
+This is a weird line going down.
