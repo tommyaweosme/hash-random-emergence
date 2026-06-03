@@ -1,4 +1,4 @@
-# hash-random-emergence
+<img width="464" height="226" alt="image" src="https://github.com/user-attachments/assets/9294ab11-6bcc-4083-a0b5-f26d4d739d66" /># hash-random-emergence
 This is the "sister version" to mulberry32 emergence. The differences are the random algorithm, and that seeds can now be letters (but it is preferable to still use numbers). This one feels like it should be explored more, but the mulberry32 one is the original and will likely be explored more.
 ## Why should we use numbers?
 Imagine we find a great discovery, but its seed contains an offensive string. Numbers cannot offend, but words can. This pattern is now practically unshareable. Short strings of up to 2 letters should also be searched, but 3 letters is where offensive possibilities begin.
@@ -44,8 +44,16 @@ This is a faux 3D pattern that appears isotropic, somewhat like Q*Bert.
 ### 5|a
 This quickly evolves into two spaceships going in different directions, occasionally hitting each other.
 ### 6|11
-This is a moving oblique line whose cell count goes up in a weird way.
+This is a moving oblique line whose cell count goes up according to the Padovan sequence.
+### 6|16
+This is a flamethrower-like pattern that appears to grow at a rate of around 1.521, which means patterns as simple as 6 states can estimate strangely precise numbers.
+### 6|17
+This is a laser making a checkerboard, but it is very close to a duplicator.
 ### 6|25
 A true diagonal gun which does not move.
+### 6|12412
+This is another Padovan pattern.
+### 6|543543
+This is apparently a cubic eqaution contained entirely within 6 states.
 ### 6|a
 This is a gun that shoots 2-width spaceships.
