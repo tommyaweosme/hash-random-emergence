@@ -2,6 +2,8 @@
 This is the "sister version" to mulberry32 emergence. The differences are the random algorithm, and that seeds can now be letters (but it is preferable to still use numbers). This one feels like it should be explored more, but the mulberry32 one is the original and will likely be explored more.
 ## Why should we use numbers?
 Imagine we find a great discovery, but its seed contains an offensive string. Numbers cannot offend, but words can. This pattern is now practically unshareable. Short strings of up to 2 letters should also be searched, but 3 letters is where offensive possibilities begin.
+## About Hash Depth
+Hash Depth should be 32 for most things, 128 is reserved for trying to discover the rarest things (such as period-10 oscilators), and we should focus on 32 instead of 128 for discovering things.
 ## Settings
 States determine how many states there are, and seeds determine what ruleset you get. This is represented by "t|e" where t is the number of states and e is the seed.
 ## Pattern names
