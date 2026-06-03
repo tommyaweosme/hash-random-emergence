@@ -23,6 +23,8 @@ Throws upwards a weird pattern.
 Implements a Fibonacci sequence while creating extremely interesting patterns.
 ### 3|5
 This is an infinite growth that looks like a slice of pizza. Yum!
+### 4|2
+This may be the simplest knightwise spaceship.
 ### 5|5
 This appears to be an infinitely growing patch that gets laggy very fast. I cannot prove if it is truly infinite growth.
 ### 5|8
@@ -41,3 +43,9 @@ This is a spaceship occupying two cells, making it appear square on my display.
 This is a faux 3D pattern that appears isotropic, somewhat like Q*Bert.
 ### 5|a
 This quickly evolves into two spaceships going in different directions, occasionally hitting each other.
+### 6|11
+This is a moving oblique line whose cell count goes up in a weird way.
+### 6|25
+A true diagonal gun which does not move.
+### 6|a
+This is a gun that shoots 2-width spaceships.
