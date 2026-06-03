@@ -31,8 +31,14 @@ This is an infinite growth that looks like a slice of pizza. Yum!
 First ever found period-3 oscillator. Found with an automated searcher.
 ### 4|2
 This may be the simplest knightwise spaceship.
+### 4|25
+This is a spaceship that releases spaceships going northeast.
+### 4|32
+This is a gun that releases pink cells to the left.
+### 4|45
+This is a gun that releases guns that release spaceships going up.
 ### 5|5
-This appears to be an infinitely growing patch that gets laggy very fast. I cannot prove if it is truly infinite growth.
+This is a proven infinitely growing spacefiller that gets laggy very fast.
 ### 5|8
 This appears to be an infinite growth smile. I cannot prove if it is truly infinite growth.
 ### 5|37
@@ -57,6 +63,10 @@ This is a flamethrower-like pattern that appears to grow at a rate of around 1.5
 This is a laser making a checkerboard, but it is very close to a duplicator.
 ### 6|25
 A true diagonal gun which does not move.
+### 6|1276
+Two spaceships that constantly jump past each other.
+### 6|2026
+An infinite growth that looks like a cake.
 ### 6|12412
 This is another Padovan pattern.
 ### 6|543543
