@@ -83,5 +83,7 @@ This is a period-6 oscillator found on complete accident while testing a search 
 After 30 seconds to a minute of searching at an extremely high speed (10000 per frame) causing browser lag, this period-7 oscillator was found. A period-10 oscillator doesn't feel so far out of reach now.
 ### 11|132619 (105000)
 The search engine found this period-7 oscillator at exactly 105000 PM, which is how it got its name.
+### 11|2520505 (Duo Cinco)
+I was doing my Duolingo when I found this period-7 oscillator whose seed makes heavily use of 2 and 5, in Spanish those numbers are "Duo" and "Cinco", and "Duo Cinco" sounds like Duolingo.
 ### 25|234
 This is a weird line going down.
