@@ -65,6 +65,20 @@ This is a flamethrower-like pattern that appears to grow at a rate of around 1.5
 This is a laser making a checkerboard, but it is very close to a duplicator.
 ### 6|25
 A true diagonal gun which does not move.
+### 6|91
+Two green and two purple spaceships running into each other and going back and down, making a spaceship made of spaceships.
+### 6|93
+A pattern that appears to grow at a rate of around 1.695.
+### 6|95
+On odd generations, the population goes up by $1 + \frac{1}{\sqrt{2}}$, but on even generations, the population goes up by a constant $2$.
+### 6|101
+This pattern looks like a butterfly spreading its wings, but it is a boring duplicator.
+### 6|104
+This pattern follows the Fibonacci sequence while also looking like a rainbow cake with frosting dripping off.
+### 6|108
+This pattern evolves into two green spaceships heading northeast and one pink spaceship heading east.
+### 6|109
+This pattern is a duplicator that looks like an extremely strange flickering checkerboard staircase. Its missing corner is northeast.
 ### 6|1276
 Two spaceships that constantly jump past each other.
 ### 6|2026
