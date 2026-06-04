@@ -75,5 +75,7 @@ This is another Padovan pattern.
 This is apparently a cubic eqaution contained entirely within 6 states.
 ### 6|a
 This is a gun that shoots 2-width spaceships.
+### The double holy grail
+7|343623 and 7|394160. Dozens of minutes of searching. After going through hundreds of thousands of potential seeds, they were found. Two period-5 oscillators in the same hundred-thousand range. This is an extremely rare occurence that would have been almost impossible to have been discovered by humans. The next goal we set our sights on is period-6.
 ### 25|234
 This is a weird line going down.
