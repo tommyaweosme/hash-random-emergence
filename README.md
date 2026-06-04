@@ -87,5 +87,15 @@ The search engine found this period-7 oscillator at exactly 105000 PM, which is 
 I was doing my Duolingo when I found this period-7 oscillator whose seed makes heavily use of 2 and 5, in Spanish those numbers are "Duo" and "Cinco", and "Duo Cinco" sounds like Duolingo.
 ### 11|3840131 (Scroll Sauerkraut)
 I was scrolling on my phone and this period-7 oscillator popped up at 11:22 PM. 11:22 is also the length of the song Albuquerque, in which sauerkraut is featured.
+### 11|5387841 (The Hook)
+This period-7 oscillator traces out the path of a hook.
+### 11|6420928 (The Quantum Duet)
+Among a sea of period-7 oscillators in almost an hour of searching, one stood out. A walk to the browser window revealed it.
+
+\[🌪️ ANOMALY CAPTURED\] Ruleset: 11|6420928 -> True P-12! (Captured at 11:35:06 PM)
+
+Featuring two color-changing cells dancing around each other, this is the most ground-breaking discovery in all of hash random emergence. No period 8, 9, 10, or 11. Just straight to period-12. The Quantum Duet makes The Harbinger of Browser Lag look like 2|954.
+
+Truly there are no words that can properly express how extremely rare and statistically epic this is.
 ### 25|234
 This is a weird line going down.
