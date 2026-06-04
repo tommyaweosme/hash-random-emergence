@@ -97,5 +97,7 @@ Among a sea of period-7 oscillators in almost an hour of searching, one stood ou
 Featuring two color-changing cells dancing around each other, this is the most ground-breaking discovery in all of hash random emergence. No period 8, 9, 10, or 11. Just straight to period-12. The Quantum Duet makes The Harbinger of Browser Lag look like 2|954.
 
 Truly there are no words that can properly express how extremely rare and statistically epic this is.
+### 11|7413128 & 11|7543386 & 11|7794054
+This trio of period-7 oscillators appeared very near to each other.
 ### 25|234
 This is a weird line going down.
