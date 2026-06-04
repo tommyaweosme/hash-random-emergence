@@ -85,5 +85,7 @@ After 30 seconds to a minute of searching at an extremely high speed (10000 per 
 The search engine found this period-7 oscillator at exactly 105000 PM, which is how it got its name.
 ### 11|2520505 (Duo Cinco)
 I was doing my Duolingo when I found this period-7 oscillator whose seed makes heavily use of 2 and 5, in Spanish those numbers are "Duo" and "Cinco", and "Duo Cinco" sounds like Duolingo.
+### 11|3840131 (Scroll Sauerkraut)
+I was scrolling on my phone and this period-7 oscillator popped up at 11:22 PM. 11:22 is also the length of the song Albuquerque, in which sauerkraut is featured.
 ### 25|234
 This is a weird line going down.
