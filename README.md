@@ -113,7 +113,11 @@ Featuring two color-changing cells dancing around each other, this is the most g
 Truly there are no words that can properly express how extremely rare and statistically epic this is.
 ### 11|7413128 & 11|7543386 & 11|7794054
 This trio of period-7 oscillators appeared very near to each other.
-### 11|8355092
-Non-notable period-7 oscillator.
+### 11|8355092 & 11|8548308
+Non-notable period-7 oscillators.
+### 11|8753728 & 11|8782687 & 11|8809735 (Seven Seconds of Period-7)
+Within 7 seconds, these three period-7 oscillators were discovered.
+### 11|9116306
+This is the final period-7 oscillator I will show here that isn't special in some way.
 ### 25|234
 This is a weird line going down.
