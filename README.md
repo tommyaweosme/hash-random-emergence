@@ -53,6 +53,8 @@ This is a tower going down and creating infinite towers that go to the bottom-ri
 This is a spaceship occupying two cells, making it appear square on my display.
 ### 5|60
 This is a faux 3D pattern that appears isotropic, somewhat like Q*Bert.
+### 5|27583
+After searching tens of thousands of seeds, this is the highly coveted period-4 oscillator, first of it's kind.
 ### 5|a
 This quickly evolves into two spaceships going in different directions, occasionally hitting each other.
 ### 6|11
