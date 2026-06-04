@@ -77,5 +77,11 @@ This is apparently a cubic eqaution contained entirely within 6 states.
 This is a gun that shoots 2-width spaceships.
 ### 7|343623 & 7|394160 (The Double Holy Grail)
 7|343623 and 7|394160. Dozens of minutes of searching. After going through hundreds of thousands of potential seeds, they were found. Two period-5 oscillators in the same hundred-thousand range. This is an extremely rare occurence that would have been almost impossible to have been discovered by humans. The next goal we set our sights on is period-6.
+### 8|414246 (The Few-Second Anomaly)
+This is a period-6 oscillator found on complete accident while testing a search script.
+### 9|168881 (The Harbinger of Browser Lag)
+After 30 seconds to a minute of searching at an extremely high speed (10000 per frame) causing browser lag, this period-7 oscillator was found. A period-10 oscillator doesn't feel so far out of reach now.
+### 11|132619 (105000)
+The search engine found this period-7 oscillator at exactly 105000 PM, which is how it got its name.
 ### 25|234
 This is a weird line going down.
