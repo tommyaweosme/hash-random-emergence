@@ -119,5 +119,9 @@ Non-notable period-7 oscillators.
 Within 7 seconds, these three period-7 oscillators were discovered.
 ### 11|9116306
 This is the final period-7 oscillator I will show here that isn't special in some way.
+### 11|13412257 (Two Twelves)
+This is another period-12 oscillator that I found using the search program, before any period-8s.
+### 11|16951108 (Eight Figures)
+This is the first period-8 oscillator ever. Its seed has eight numbers, and the first period-8 oscillator was called "Figure Eight". Thus, "Eight Figures".
 ### 25|234
 This is a weird line going down.
